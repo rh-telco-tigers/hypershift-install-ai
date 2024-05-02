@@ -236,4 +236,4 @@ $ hcp create cluster kubevirt --name tenant1 --node-pool-replicas 3   --pull-sec
 
 <BR><BR><BR>
 
-### Click [here](https://github.com/rohitralhan/hypershift-ldap-rbac/README.md) to learn about setting up LDAP and Role based access control with the Hub and the hosted clusters
+### Click [here](https://github.com/rh-telco-tigers/hypershift-ldap-rbac) to learn about setting up LDAP and Role based access control with the Hub and the hosted clusters
